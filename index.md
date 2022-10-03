@@ -4,9 +4,9 @@ My favorite books are Science Fiction/Fantasy books such as the *Throne of Glass
 I grew up with a twin Sister and my mother and father.
 >Their names are Cailyn, Aileen, and Steven
 I currently live with my cat Brownie
-![Brownie](c:\Users\sarah\OneDrive\Pictures\Camera Roll\20180207_202910.jpg)
-I spend alot of my free time at the zoo and my spirit animal is the Red Panda
-![Red Panda]( c:\Users\sarah\OneDrive\Pictures\2020_07_24\_MG_2596.CR2)
+![Brownie](/brownie.jpg)
+I spend a lot of my free time at the zoo and my spirit animal is the Red Panda
+![Red Panda](/panda.JPG)
 
 ## Programming
 For my major and minor I have a variety of programming experience both related and not related to art.
